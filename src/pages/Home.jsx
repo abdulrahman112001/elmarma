@@ -2,6 +2,7 @@
 ///
 import { Helmet } from "react-helmet"
 import { Navbar } from "../components/Navbar"
+import SwiperComp from "../components/SwiperComp"
 ///
 /////////// Types
 ///
@@ -46,6 +47,7 @@ export const Home = ({ title }) => {
           </Helmet>
           
           <Navbar/>
+          <SwiperComp/>
           
     </>
   )

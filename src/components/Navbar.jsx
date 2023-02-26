@@ -1,6 +1,5 @@
 /////////// IMPORTS
 ///
-import { Button } from "react-bootstrap"
 import { Settings } from "../setting"
 ///
 /////////// Types
